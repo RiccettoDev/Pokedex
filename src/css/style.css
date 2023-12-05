@@ -145,3 +145,21 @@ header {
   box-shadow: inset -4px 4px 0 #222;
   font-size: 0.9rem;
 }
+
+/* ------------------ Home ------------------ */
+
+.logo_pokemon {
+  width: 60%;
+  height: 30%;
+}
+
+.pokemons {
+  width: 70%;
+  height: 70%;
+}
+
+.Copyright {
+  color: #fff;
+  font-size: 24px;
+  font-weight: bold;
+}
