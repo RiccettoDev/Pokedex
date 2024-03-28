@@ -163,3 +163,61 @@ header {
   font-size: 24px;
   font-weight: bold;
 }
+
+/*---------------About-------------------*/
+
+.container_ash{
+  width: 800px;
+}
+
+.container_ash img {
+  border-radius: 50%;
+  margin-top: 1em;
+}
+
+.container_about {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 1em;
+}
+
+.container_about h3 {
+  margin-top: 2em;
+  text-align: justify;
+}
+
+a {
+  text-decoration: none;
+}
+
+footer {
+  padding: 2em;
+}
+
+@media screen and (max-width: 1080px){
+  .container_logo{
+    display: flex;
+    flex-direction: column;
+    margin-left: 1em;
+  }
+
+  .container_pokemon {
+    padding-top: 2em;
+    padding-bottom: 2em;
+  }
+
+  .menu ul li{
+    margin: .5em;
+  }
+
+  .container_about {
+    width: 40%;
+    overflow-x: hidden;
+  }
+
+  .container_ash img {
+    width: 40%;
+  }
+}
