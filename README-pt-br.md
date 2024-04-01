@@ -1,20 +1,20 @@
-Click here to change the language:
+Clique aqui para alterar o idioma:
 
 [![flag-eua](./img/eua.png)](./README.md) [![flag-brasil](./img/brasil.png)](./README-pt-br.md)
 
 # POKÉDEX
 
-The **PokéDex** is a project dedicated to Pokémon enthusiasts, developed using HTML, CSS, and JavaScript. Offering a comprehensive experience, the **PokéDex** allows users to explore an extensive list of Pokémon. Utilizing an official Pokémon API, the site provides real-time updated and accurate data. With a responsive and intuitive design, users can access the **PokéDex** on any device, ensuring a consistent experience on desktops, tablets, and smartphones. Whether for novice or veteran trainers, the **PokéDex** is the essential tool for those looking to become a Pokémon master!
+A **PokéDex** é um projeto dedicado aos apaixonados pelo mundo dos Pokémon, desenvolvido utilizando HTML, CSS e JavaScript. Oferecendo uma experiência completa, a **PokéDex** permite aos usuários explorar uma extensa lista de Pokémon. Utilizando uma API oficial dos Pokémon, o site fornece dados atualizados e precisos em tempo real. Com um design responsivo e intuitivo, os usuários podem acessar a **PokéDex** em qualquer dispositivo, garantindo uma experiência consistente em desktops, tablets e smartphones.Seja para treinadores novatos ou veteranos, a **PokéDex** é a ferramenta essencial para quem deseja se tornar um mestre Pokémon!
 
 <br>
 
-:computer: [Click here to access the application](https://riccettodev.github.io/Pokedex/index.html)
+:computer: [Clique aqui para acessar a aplicação](https://riccettodev.github.io/Pokedex/index.html)
 
 <br>
 
 ![nlw-expert-notes](./img/pokedex.png)
 
-## Technologies
+## Tecnologias
 
 ![Static Badge](https://img.shields.io/badge/JavaScript-242424?style=for-the-badge&logo=javascript&logoColor=ffff00&labelColor=242424)
 ![Static Badge](https://img.shields.io/badge/HTML5-ec6231?style=for-the-badge&logo=html5&logoColor=fff&labelColor=ec6231)
@@ -27,11 +27,11 @@ The **PokéDex** is a project dedicated to Pokémon enthusiasts, developed using
 ![Static Badge](https://img.shields.io/badge/Git-ec6231?style=for-the-badge&logo=git&logoColor=fff&labelColor=ec6231)
 ![Static Badge](https://img.shields.io/badge/vercel-242424?style=for-the-badge&logo=vercel&logoColor=fff&labelColor=242424)
 
-## Getting Started
+## Começando
 
-This project can be used on your own machine after performing a PUSH of this repository and accessing its home through the index.html file.
+Este projeto pode ser usado em sua própria máquina após realizar um **PUSH** deste repositório e acessando sua home atravéz do arquivo **index.html**
 
-## Contact
+## Contato
 
 <div>
   <a href="https://portfolio-ten-lime-67.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/portifolio-FF0000?style=for-the-badge&logo=unitednations&logoColor=white" target="_blank"></a>
